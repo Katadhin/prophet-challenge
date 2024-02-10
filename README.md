@@ -1,2 +1,2 @@
 # prophet-challenge
-Week * Challenge
+Week 8 Challenge
